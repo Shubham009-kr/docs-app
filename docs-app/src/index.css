@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+.anonymous-pro-regular {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.anonymous-pro-bold {
+  font-family: "Anonymous Pro", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+*{
+  font-family: "Anonymous Pro", monospace;
+}
+
+::selection{
+  color: rgb(232, 145, 47);
+}
