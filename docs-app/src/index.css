@@ -12,6 +12,13 @@
   font-style: normal;
 }
 
+.comfortaa {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 *{
   font-family: "Anonymous Pro", monospace;
 }
